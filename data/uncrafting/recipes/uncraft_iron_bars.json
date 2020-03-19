@@ -9,10 +9,26 @@
         },
         {
             "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:iron_bars"
         }
     ],
     "result": {
         "item": "minecraft:iron_ingot",
-        "count": 1
-    }
+        "count": 3
+    },
+    "group": "iron_ingot"
 }
