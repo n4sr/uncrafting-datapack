@@ -10,6 +10,7 @@
     }
   },
   "result": {
-    "item": "minecraft:mossy_stone_bricks"
+    "item": "minecraft:mossy_stone_bricks",
+    "count": 3
   }
 }

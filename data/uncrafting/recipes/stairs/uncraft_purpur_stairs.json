@@ -10,6 +10,7 @@
     }
   },
   "result": {
-    "item": "minecraft:purpur_block"
+    "item": "minecraft:purpur_block",
+    "count": 3
   }
 }

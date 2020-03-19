@@ -10,6 +10,7 @@
     }
   },
   "result": {
-    "item": "minecraft:smooth_sandstone"
+    "item": "minecraft:smooth_sandstone",
+    "count": 3
   }
 }

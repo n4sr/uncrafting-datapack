@@ -10,6 +10,7 @@
     }
   },
   "result": {
-    "item": "minecraft:red_sandstone"
+    "item": "minecraft:red_sandstone",
+    "count": 3
   }
 }
